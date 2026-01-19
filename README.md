@@ -1,26 +1,5 @@
 挂科版狼人杀 - AstrBot插件
 
-<div align="center">
-
-[图片] https://img.shields.io/github/stars/LingshuoMoe/astrbot_plugin_fail_werewolf?style=for-the-badge
-
-[图片] https://img.shields.io/github/forks/LingshuoMoe/astrbot_plugin_fail_werewolf?style=for-the-badge
-
-[图片] https://img.shields.io/github/issues/LingshuoMoe/astrbot_plugin_fail_werewolf?style=for-the-badge
-
-[图片] https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge
-
-[图片] https://img.shields.io/badge/AstrBot-兼容-green?style=for-the-badge
-
-一款结合大学校园主题的狼人杀游戏插件，体验挂科的刺激与乐趣！
-
-"[图片] https://img.shields.io/badge/演示视频-点击观看-red?style=for-the-badge&logo=youtube" (demo.mp4)
-
-"[图片] #快速开始" (#快速开始)
-
-"[图片] https://img.shields.io/badge/报告问题-GitHub_Issues-red?style=for-the-badge" (issues)
-
-</div>
 
 📚 项目简介
 
