@@ -1,0 +1,12 @@
+name: astrbot_plugin_fail_werewolf-
+display_name: 挂科狼人杀
+desc: astrbot 大学狼人杀小游戏
+help: 大学狼人杀小游戏
+version: 1.0.0
+author: lingshuo
+repo: https://github.com/luojingkun/astrbot_plugin_fail_werewolf-
+license: MIT
+tags:
+  - 游戏
+  - 狼人杀
+  - 大学
